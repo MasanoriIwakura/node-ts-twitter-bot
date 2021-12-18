@@ -410,6 +410,11 @@ tsconfig@^7.0.0:
     strip-bom "^3.0.0"
     strip-json-comments "^2.0.0"
 
+twitter-api-v2@^1.7.2:
+  version "1.7.2"
+  resolved "https://registry.yarnpkg.com/twitter-api-v2/-/twitter-api-v2-1.7.2.tgz#56a8213a478e84d8e0e35e23c1714243878b0107"
+  integrity sha512-kN9ADZ6+Qbrg/8Jz9p2VDylvCCLVOwNow8JnJxLrYq0P8+UlCioec5tVBWdcf6Q2GtOO+RwxqeWQUffH1Cm5MA==
+
 typescript@^4.5.4:
   version "4.5.4"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.4.tgz#a17d3a0263bf5c8723b9c52f43c5084edf13c2e8"
